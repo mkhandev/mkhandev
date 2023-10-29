@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working at biznextit as a Senior Software Engineer <br>🖊️ Love to write code<br>📧 Email me: mahmudkhan.sumon@gmail.com<br>⚡ Fun fact<br>
+🔭 I’m Full Stack Web Application Developer. Currently working at biznextit as a Senior Software Engineer <br>
+🖊️ Love to write code<br>
+📧 Email me: mahmudkhan.sumon@gmail.com<br>
+⚡ Fun fact<br>
 
 
 ## 🌐 Socials:
