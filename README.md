@@ -1,34 +1,15 @@
-# Your Name
+# 💫 About Me:
+🔭 I’m currently working at biznextit as a Senior Software Engineer <br>🖊️ Love to write code<br>📧 Email me: mahmudkhan.sumon@gmail.com<br>⚡ Fun fact<br>
 
-## About Me
-I'm a passionate software developer with a love for open-source projects. My goal is to build innovative solutions and collaborate with others to make the world a better place through technology.
 
-## Skills
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Version Control: Git
-- DevOps: Docker, Jenkins
-- Cloud Computing: AWS, Azure
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sumon.khan.1612) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mkhancse@gmail.com) 
 
-## Projects
-### Project 1 - Awesome Project
-Description: A brief description of the project, its goals, and your role.
-GitHub Repository: [link](https://github.com/yourusername/awesome-project)
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Project 2 - Cool Project
-Description: Another exciting project you've worked on.
-GitHub Repository: [link](https://github.com/yourusername/cool-project)
 
-## Contributions
-I'm an active contributor to various open-source projects, including:
-- [Project A](https://github.com/yourusername/project-a)
-- [Project B](https://github.com/yourusername/project-b)
+---
+[![](https://visitcount.itsvg.in/api?id=mkhandev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Contact
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- Email: your@email.com
-- Website: [yourwebsite.com](https://www.yourwebsite.com)
-
-Feel free to connect with me for collaboration or any questions about my work. Let's build amazing things together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
