@@ -27,4 +27,4 @@ PHP
 
 ### Cache
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![Memcached] (https://img.shields.io/badge/%20-Memcached-black?logo=memcached&style=for-the-badge)
+![Memcached](https://img.shields.io/badge/%20-Memcached-black?logo=memcached&style=flat&logo=redis&logoColor=white)
