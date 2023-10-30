@@ -3,8 +3,7 @@
 🖊️ Love to write code<br>
 📧 Email me: mahmudkhan.sumon@gmail.com<br>
 
-##Expertise Area
-PHP
+## Expertise Area
 
 ### Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
