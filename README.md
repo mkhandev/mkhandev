@@ -42,3 +42,33 @@ PHP
 ### Cache
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Memcached](https://img.shields.io/badge/%20-Memcached-black?style=for-the-badge&logo=memcached&logoColor=white)
+
+## Employment History
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Position</b></td>
+      <td><b>Company</b></td>
+      <td><b>Duration</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td>Sr. Software Engineer</td>
+      <td>BizNextIT</td>
+      <td>Nov 2022 - Present</td>
+    </tr>
+
+    <tr>
+      <td>Sr. Software Engineer</td>
+      <td>Oceanize Bangladesh</td>
+      <td>Sep 2018 - Nov 2022</td>
+    </tr>
+
+  </tbody>
+</table>
+
+## Education
+B.Sc. in Computer Science & Engineering (IBAIS University)
