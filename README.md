@@ -9,7 +9,7 @@ PHP
 ### Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Cake-PHP](https://img.shields.io/badge/%20-CakePHP-maroon?logo=cakephp&?style=for-the-badge&logo=laravel&logoColor=white)
+![Cake-PHP](https://img.shields.io/badge/%20-CakePHP-maroon?style=for-the-badge&logo=cakephp&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
 ### Frontend 
@@ -33,4 +33,4 @@ PHP
 
 ### Cache
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Memcached](https://img.shields.io/badge/%20-Memcached-black?logo=memcached&style=for-the-badge&logo=redis&logoColor=white)
+![Memcached](https://img.shields.io/badge/%20-Memcached-black?style=for-the-badge&logo=memcached&logoColor=white)
