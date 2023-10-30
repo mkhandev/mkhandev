@@ -3,9 +3,6 @@
 🖊️ Love to write code<br>
 📧 Email me: mahmudkhan.sumon@gmail.com<br>
 
-## My expertise area
-# working with
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sumon.khan.1612) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mkhancse@gmail.com) 
