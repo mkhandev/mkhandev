@@ -64,6 +64,11 @@ PHP
       <td>Oceanize Bangladesh</td>
       <td>Sep 2018 - Nov 2022</td>
     </tr>
+    <tr>
+      <td>Programmer</td>
+      <td>Prothom Alo Digital</td>
+      <td>Jul 2016 - Sep 2018</td>
+    </tr>
   </tbody>
 </table>
 
