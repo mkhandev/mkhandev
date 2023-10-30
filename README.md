@@ -47,26 +47,23 @@ PHP
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr border="none;">
       <td><b>Position</b></td>
       <td><b>Company</b></td>
       <td><b>Duration</b></td>
     </tr>
   </thead>
   <tbody>
-
     <tr>
       <td>Sr. Software Engineer</td>
       <td>BizNextIT</td>
       <td>Nov 2022 - Present</td>
     </tr>
-
     <tr>
       <td>Sr. Software Engineer</td>
       <td>Oceanize Bangladesh</td>
       <td>Sep 2018 - Nov 2022</td>
     </tr>
-
   </tbody>
 </table>
 
