@@ -65,9 +65,14 @@
   </thead>
   <tbody>
     <tr>
+      <td>Full Stack developer</td>
+      <td>Freelancer</td>
+      <td>June, 2024- Present</td>
+    </tr>
+    <tr>
       <td>Sr. Software Engineer</td>
       <td>BizNextIT</td>
-      <td>Nov 2022 - Present</td>
+      <td>Nov 2022 - June, 2024</td>
     </tr>
     <tr>
       <td>Sr. Software Engineer</td>
