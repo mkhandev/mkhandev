@@ -78,8 +78,8 @@
     </tr>
     <tr>
       <td>Sr. Software Engineer</td>
-      <td>Oceanize Bangladesh</td>
-      <td>Sep 2018 - Nov 2022</td>
+      <td>CybridgeBangladesh (Oceanize Bangladesh)</td>
+      <td>Sep 2018 - October 2022</td>
     </tr>
     <tr>
       <td>Programmer</td>
