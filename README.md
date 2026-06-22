@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td>Programmer</td>
-      <td>Prothom Alo Digital</td>
+      <td>Prothom Alo Digital - Mediasstar Limited</td>
       <td>Jul 2016 - Sep 2018</td>
     </tr>
   </tbody>
