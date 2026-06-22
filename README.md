@@ -78,12 +78,12 @@
     </tr>
     <tr>
       <td>Sr. Software Engineer</td>
-      <td>CybridgeBangladesh (Oceanize Bangladesh)</td>
+      <td>Cybridge Bangladesh (Oceanize Bangladesh)</td>
       <td>Sep 2018 - October 2022</td>
     </tr>
     <tr>
       <td>Programmer</td>
-      <td>Prothom Alo Digital - Mediastar Limited</td>
+      <td>Prothom Alo Digital - Media Star Limited. (Chakri.com)</td>
       <td>Jul 2016 - Sep 2018</td>
     </tr>
   </tbody>
