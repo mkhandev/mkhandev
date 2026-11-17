@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m Full Stack Web Application Developer. Currently working at BizNextIT as a Senior Software Engineer. <br>
+🔭 I’m Full Stack Web Application Developer. <br>
 🖊️ Love to write code<br>
+📫 How to reach me: mazhar266@gmail.com
 
 ## Expertise Area
 
