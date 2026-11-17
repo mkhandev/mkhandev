@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m Full Stack Web Application Developer. <br>
 🖊️ Love to write code<br>
-📫 How to reach me: mazhar266@gmail.com
+📫 How to reach me: mahmudkhan.sumon@gmail.com
 
 ## Expertise Area
 
